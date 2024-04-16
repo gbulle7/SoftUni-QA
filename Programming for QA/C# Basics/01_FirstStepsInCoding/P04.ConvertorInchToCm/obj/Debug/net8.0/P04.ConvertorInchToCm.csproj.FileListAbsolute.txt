@@ -1,0 +1,14 @@
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\bin\Debug\net8.0\P04.ConvertorInchToCm.exe
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\bin\Debug\net8.0\P04.ConvertorInchToCm.deps.json
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\bin\Debug\net8.0\P04.ConvertorInchToCm.runtimeconfig.json
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\bin\Debug\net8.0\P04.ConvertorInchToCm.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\bin\Debug\net8.0\P04.ConvertorInchToCm.pdb
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\obj\Debug\net8.0\P04.ConvertorInchToCm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\obj\Debug\net8.0\P04.ConvertorInchToCm.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\obj\Debug\net8.0\P04.ConvertorInchToCm.AssemblyInfo.cs
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\obj\Debug\net8.0\P04.ConvertorInchToCm.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\obj\Debug\net8.0\P04.ConvertorInchToCm.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\obj\Debug\net8.0\refint\P04.ConvertorInchToCm.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\obj\Debug\net8.0\P04.ConvertorInchToCm.pdb
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\obj\Debug\net8.0\P04.ConvertorInchToCm.genruntimeconfig.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P04.ConvertorInchToCm\obj\Debug\net8.0\ref\P04.ConvertorInchToCm.dll

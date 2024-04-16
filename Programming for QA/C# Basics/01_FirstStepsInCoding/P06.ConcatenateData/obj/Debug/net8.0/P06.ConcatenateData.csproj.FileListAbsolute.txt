@@ -1,0 +1,14 @@
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\bin\Debug\net8.0\P06.ConcatenateData.exe
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\bin\Debug\net8.0\P06.ConcatenateData.deps.json
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\bin\Debug\net8.0\P06.ConcatenateData.runtimeconfig.json
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\bin\Debug\net8.0\P06.ConcatenateData.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\bin\Debug\net8.0\P06.ConcatenateData.pdb
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\obj\Debug\net8.0\P06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\obj\Debug\net8.0\P06.ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\obj\Debug\net8.0\P06.ConcatenateData.AssemblyInfo.cs
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\obj\Debug\net8.0\P06.ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\obj\Debug\net8.0\P06.ConcatenateData.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\obj\Debug\net8.0\refint\P06.ConcatenateData.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\obj\Debug\net8.0\P06.ConcatenateData.pdb
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\obj\Debug\net8.0\P06.ConcatenateData.genruntimeconfig.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P06.ConcatenateData\obj\Debug\net8.0\ref\P06.ConcatenateData.dll

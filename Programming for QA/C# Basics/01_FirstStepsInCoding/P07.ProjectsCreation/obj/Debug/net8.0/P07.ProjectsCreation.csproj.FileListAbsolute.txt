@@ -1,0 +1,14 @@
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\bin\Debug\net8.0\P07.ProjectsCreation.exe
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\bin\Debug\net8.0\P07.ProjectsCreation.deps.json
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\bin\Debug\net8.0\P07.ProjectsCreation.runtimeconfig.json
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\bin\Debug\net8.0\P07.ProjectsCreation.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\bin\Debug\net8.0\P07.ProjectsCreation.pdb
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\obj\Debug\net8.0\P07.ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\obj\Debug\net8.0\P07.ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\obj\Debug\net8.0\P07.ProjectsCreation.AssemblyInfo.cs
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\obj\Debug\net8.0\P07.ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\obj\Debug\net8.0\P07.ProjectsCreation.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\obj\Debug\net8.0\refint\P07.ProjectsCreation.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\obj\Debug\net8.0\P07.ProjectsCreation.pdb
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\obj\Debug\net8.0\P07.ProjectsCreation.genruntimeconfig.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P07.ProjectsCreation\obj\Debug\net8.0\ref\P07.ProjectsCreation.dll

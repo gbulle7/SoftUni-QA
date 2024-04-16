@@ -1,0 +1,14 @@
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\bin\Debug\net8.0\P09.YardGreening.exe
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\bin\Debug\net8.0\P09.YardGreening.deps.json
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\bin\Debug\net8.0\P09.YardGreening.runtimeconfig.json
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\bin\Debug\net8.0\P09.YardGreening.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\bin\Debug\net8.0\P09.YardGreening.pdb
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\obj\Debug\net8.0\P09.YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\obj\Debug\net8.0\P09.YardGreening.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\obj\Debug\net8.0\P09.YardGreening.AssemblyInfo.cs
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\obj\Debug\net8.0\P09.YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\obj\Debug\net8.0\P09.YardGreening.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\obj\Debug\net8.0\refint\P09.YardGreening.dll
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\obj\Debug\net8.0\P09.YardGreening.pdb
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\obj\Debug\net8.0\P09.YardGreening.genruntimeconfig.cache
+C:\Users\Simon\Desktop\QA\04 Programming Fundamentals and Unit Testing\Programming Basics with C#\Solutions\01_FirstStepsInCoding\P09.YardGreening\obj\Debug\net8.0\ref\P09.YardGreening.dll
