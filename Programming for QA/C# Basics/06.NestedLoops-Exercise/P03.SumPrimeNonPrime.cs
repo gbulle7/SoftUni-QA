@@ -1,5 +1,3 @@
-using System.Runtime.InteropServices;
-
 string command = Console.ReadLine();
 
 int sumPrime = 0;
