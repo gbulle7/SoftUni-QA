@@ -14,7 +14,7 @@ for (int i = 0; i < seq.Length; i++)
     }
     if (isTopInt)
     {
-        result.Add(result[i]);
+        result.Add(seq[i]);
     }
 }
 Console.WriteLine(string.Join(" ", result));
