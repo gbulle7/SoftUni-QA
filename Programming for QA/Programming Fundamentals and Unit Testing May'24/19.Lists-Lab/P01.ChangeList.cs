@@ -8,7 +8,10 @@ while (command != "end")
     if (cmd[0] == "Delete")
     {
         int element = int.Parse(cmd[1]);
-        integers.Remove(element);
+      	while (integers.Contains(element))
+          {
+            integers.Remove(element);
+          }
     }
     else if (cmd[0] == "Insert")
     {

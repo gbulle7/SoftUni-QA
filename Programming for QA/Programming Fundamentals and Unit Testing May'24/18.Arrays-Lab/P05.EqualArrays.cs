@@ -7,6 +7,7 @@ for (int i = 0; i < arr1.Length; i++)
     if (arr1[i] != arr2[i])
     {
         areIdentical = false;
+	break;
     }
 }
 if (areIdentical)
