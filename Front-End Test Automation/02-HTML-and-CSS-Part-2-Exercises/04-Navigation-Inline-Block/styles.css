@@ -1,0 +1,42 @@
+html {
+    margin: 25px 50px;
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    border-bottom: 2px solid black;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: 100px;
+    float: left;
+}
+
+nav {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+ul {
+    margin-top: 20px;
+    margin-left: 150px;
+    font-size: 12px;
+}
+
+h2 {
+    font-weight: 530;
+    font-family: 'Times New Roman', serif;
+    margin-top: 30px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
