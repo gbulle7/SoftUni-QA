@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 using NUnit.Framework;
 
@@ -20,30 +20,37 @@ public class ToDoListTests
     [Test]
     public void Test_AddTask_TaskAddedToToDoList()
     {
+        //Arrange
         string taskTitle = "Task1";
-        DateTime taskDate = DateTime.Parse("02.01.2025");
-        string expected = "[ ] Task1 - Due: 01/02/2025";
+        DateTime dueDate = DateTime.Parse("01.01.2025");
 
-        _toDoList.AddTask(taskTitle, taskDate);
+        string expected = "[ ] Task1 - Due: 01/01/2025";
+
+        //Act
+        _toDoList.AddTask(taskTitle, dueDate);
+        
         string result = _toDoList.DisplayTasks();
 
+        //Assert
         Assert.That(result.Contains(expected), Is.True);
     }
 
     [Test]
     public void Test_CompleteTask_TaskMarkedAsCompleted()
-    {
-        string taskName = "Task1";
-        DateTime dueDate = DateTime.Parse("02.01.2025");
+     {
+        //Аrrange
+        string taskTitle = "Task1";
+        DateTime dueDate = DateTime.Parse("01.01.2025");
+        string expected = "[✓] Task1 - Due: 01/01/2025";
 
-        string expectedTextForAddedAndCompletedTask = "[✓] Task1 - Due: 01/02/2025";
+        //Act
+        _toDoList.AddTask(taskTitle, dueDate);
+        _toDoList.CompleteTask(taskTitle);
 
-        _toDoList.AddTask(taskName, dueDate);
-        _toDoList.CompleteTask(taskName);
+        string result = _toDoList.DisplayTasks();
 
-        string result = _toDoList.DisplayTasks(); //получавам всички задачи в списъка
-
-        Assert.That(result.Contains(expectedTextForAddedAndCompletedTask), Is.True);
+        //Assert
+        Assert.That(result.Contains(expected), Is.True);
     }
 
     [Test]
