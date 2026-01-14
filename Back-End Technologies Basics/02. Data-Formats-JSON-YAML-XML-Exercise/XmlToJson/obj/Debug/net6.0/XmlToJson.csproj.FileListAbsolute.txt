@@ -1,0 +1,16 @@
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\bin\Debug\net6.0\XmlToJson.exe
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\bin\Debug\net6.0\Datasets\Devices.xml
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\bin\Debug\net6.0\Datasets\Vehicles.xml
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\bin\Debug\net6.0\XmlToJson.deps.json
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\bin\Debug\net6.0\XmlToJson.runtimeconfig.json
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\bin\Debug\net6.0\XmlToJson.dll
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\bin\Debug\net6.0\XmlToJson.pdb
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfoInputs.cache
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfo.cs
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.csproj.CoreCompileInputs.cache
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.dll
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\obj\Debug\net6.0\refint\XmlToJson.dll
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.pdb
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\obj\Debug\net6.0\XmlToJson.genruntimeconfig.cache
+D:\Simon\Desktop Stuff\1. Study\QA\06 Back-End Technologies Basics\Solutions\02.Data-Formats-JSON-YAML-XML-Exercise\XmlToJson\obj\Debug\net6.0\ref\XmlToJson.dll
