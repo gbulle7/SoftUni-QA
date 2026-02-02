@@ -1,0 +1,296 @@
+{
+  "id": "408c4c7b-00cf-493e-9a3c-8191f9b16cbf",
+  "version": "2.0",
+  "name": "SimpleNotes",
+  "url": "https://d5wfqm7y6yb3q.cloudfront.net/",
+  "tests": [{
+    "id": "5227aa84-03e3-4ee7-966a-2e8c4c123587",
+    "name": "01.LandingPageNavigationTest",
+    "commands": [{
+      "id": "3caa3e6a-e3ce-458c-b417-b842737e4612",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7a5b76f5-bbb6-4460-8be3-62f6bb1c0e29",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1350x820",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b05d56d6-9862-4a60-9880-27b5baf1aab6",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Home Page - SimpleNotes.WebApp",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "942a4bcf-3b1f-4dd1-bf0c-543198e6e2d5",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[contains(text(),'Join us now!')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9d58a4ff-96c6-4539-957f-1879b6658a08",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "1c15b36a-2bf9-4abd-af4a-b7c87a1638d7",
+    "name": "02.LoginTest",
+    "commands": [{
+      "id": "94b2f7ac-f15a-4f81-9980-d5a97158e0e4",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "39506443-3874-44db-904f-a52419357f1c",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1350x820",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fe804c2d-b805-4cf7-bf2b-f9c5e1a33c32",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[contains(text(),'Join us now!')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1b92c170-ac8b-4239-bf51-fd63fa5b8d1d",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@id='tab-login']",
+      "targets": [
+        ["id=tab-login", "id"],
+        ["css=#tab-login", "css:finder"],
+        ["xpath=//a[contains(text(),'Login')]", "xpath:link"],
+        ["xpath=//a[@id='tab-login']", "xpath:attributes"],
+        ["xpath=//ul[@id='ex1']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#pills-login')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "57f7fe3e-a9b1-4cdc-9a23-593cfb9bb2f1",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@id='loginName']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "605a112a-f6f1-4439-9d1e-384f103dca6e",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@id='loginName']",
+      "targets": [],
+      "value": "simrus123@email.com"
+    }, {
+      "id": "68bcf2d1-96c4-439d-a864-1e3f1899dcbd",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@id='loginPassword']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ad9116d1-be08-481a-b994-b2cd2ad3c0d9",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@id='loginPassword']",
+      "targets": [],
+      "value": "simrus321"
+    }, {
+      "id": "1d02eb0b-3c2a-41c9-a079-0fd3455c6dbb",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit']",
+      "targets": [
+        ["id=tab-login", "id"],
+        ["css=#tab-login", "css:finder"],
+        ["xpath=//a[contains(text(),'Login')]", "xpath:link"],
+        ["xpath=//a[@id='tab-login']", "xpath:attributes"],
+        ["xpath=//ul[@id='ex1']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#pills-login')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "20b169a8-fb18-4bda-b354-62ddbf1a08ed",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Main Page - Simple Notes",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "653674d1-c5c7-4858-a25f-13835dc7e0b0",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Logout",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "88d52b8a-e10e-49b1-b8b3-18fa62d8b585",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[contains(text(),'Join us now!')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ac342a99-8ef4-4b4e-a2ea-d823cc1e1e03",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "fb43000e-415b-40d7-9431-a8fee25244e4",
+    "name": "03.ViewProfileTest",
+    "commands": [{
+      "id": "3ead3efe-2689-4b73-86cd-2612a467863e",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b85d5665-619e-4469-907c-7def9eefcf37",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1350x820",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6a8b3bb9-69ac-4a70-8c40-fe90f170b681",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[contains(text(),'Join us now!')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bc85769e-56d7-4949-a752-461f07142879",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@id='tab-login']",
+      "targets": [
+        ["id=tab-login", "id"],
+        ["css=#tab-login", "css:finder"],
+        ["xpath=//a[contains(text(),'Login')]", "xpath:link"],
+        ["xpath=//a[@id='tab-login']", "xpath:attributes"],
+        ["xpath=//ul[@id='ex1']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#pills-login')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "45569e96-dca9-4422-8de6-37b86d156271",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@id='loginName']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bdaa6d27-9da6-486a-a16b-cdd8848eef77",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@id='loginName']",
+      "targets": [],
+      "value": "simrus123@email.com"
+    }, {
+      "id": "4e020fb6-e5f9-44ab-b09d-69f0d85e7369",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@id='loginPassword']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d60310a1-efae-42ac-a932-aa0ffd56c384",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@id='loginPassword']",
+      "targets": [],
+      "value": "simrus321"
+    }, {
+      "id": "f8d6e8db-25b6-405a-bff0-3d37fce6ba36",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit']",
+      "targets": [
+        ["id=tab-login", "id"],
+        ["css=#tab-login", "css:finder"],
+        ["xpath=//a[contains(text(),'Login')]", "xpath:link"],
+        ["xpath=//a[@id='tab-login']", "xpath:attributes"],
+        ["xpath=//ul[@id='ex1']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#pills-login')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3de54912-68c0-4f0b-ab33-b2933e38597b",
+      "comment": "",
+      "command": "click",
+      "target": "css=#navbarDropdownMenuLink > .rounded-circle",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b97cb76e-8034-4675-8dfb-06996d3da46b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=My profile",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "674235f0-d374-4341-80ce-d772bac55a5c",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//p[contains(.,'Username: Simrus | Email: simrus123@email.com')]",
+      "targets": [
+        ["css=.text-muted:nth-child(3)", "css:finder"],
+        ["xpath=//p", "xpath:position"],
+        ["xpath=//p[contains(.,'Username: Simrus | Email: simrus123@email.com')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ea44dfff-6761-44bc-8f92-2575e4eb754c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Logout",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1e83239a-e67b-4919-92ee-764cc774a724",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Home Page - SimpleNotes.WebApp",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b8263b37-421e-4ee1-91e6-f4bba5ba8d64",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "411a5a22-2bd8-4c2b-a287-8e847253cda0",
+    "name": "SimpleNotesTests",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["5227aa84-03e3-4ee7-966a-2e8c4c123587", "1c15b36a-2bf9-4abd-af4a-b7c87a1638d7", "fb43000e-415b-40d7-9431-a8fee25244e4"]
+  }],
+  "urls": ["http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:85/", "https://d5wfqm7y6yb3q.cloudfront.net/"],
+  "plugins": []
+}
